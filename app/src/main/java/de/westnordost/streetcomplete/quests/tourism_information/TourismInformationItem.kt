@@ -6,6 +6,7 @@ import de.westnordost.streetcomplete.quests.tourism_information.TourismInformati
 import de.westnordost.streetcomplete.quests.tourism_information.TourismInformation.MAP
 import de.westnordost.streetcomplete.quests.tourism_information.TourismInformation.OFFICE
 import de.westnordost.streetcomplete.quests.tourism_information.TourismInformation.TERMINAL
+import de.westnordost.streetcomplete.quests.tourism_information.TourismInformation.ART
 import de.westnordost.streetcomplete.view.image_select.Item
 
 fun TourismInformation.asItem() = Item(this, iconResId, titleResId)
