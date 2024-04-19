@@ -16,6 +16,7 @@ private val TourismInformation.titleResId: Int get() = when (this) {
     TERMINAL ->  R.string.quest_tourism_information_terminal
     MAP ->       R.string.quest_tourism_information_map
     GUIDEPOST -> R.string.quest_tourism_information_guidepost
+    ART -> R.string.quest_tourism_information_art
 }
 
 private val TourismInformation.iconResId: Int get() = when (this) {
@@ -24,4 +25,5 @@ private val TourismInformation.iconResId: Int get() = when (this) {
     TERMINAL ->  R.drawable.tourism_information_terminal
     MAP ->       R.drawable.tourism_information_map
     GUIDEPOST -> R.drawable.tourism_information_guidepost
+    ART -> R.drawable.tourism_information_art
 }

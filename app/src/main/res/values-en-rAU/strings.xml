@@ -574,6 +574,7 @@ Split it now?"</string>
     <string name="quest_tourism_information_terminal">"Information terminal"</string>
     <string name="quest_tourism_information_map">"Map"</string>
     <string name="quest_tourism_information_guidepost">"Guidepost"</string>
+    <string name="quest_tourism_information_art">"Art"</string>
     <string name="quest_recycling_materials_answer_waste">"It’s for general rubbish"</string>
     <string name="quest_recycling_materials_answer_waste_description">"So this is a container for any waste such as bagged up household or commercial waste?"</string>
     <string name="user_profile">"My Profile"</string>

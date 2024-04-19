@@ -576,6 +576,7 @@
     <string name="quest_tourism_information_terminal">"Информационный терминал"</string>
     <string name="quest_tourism_information_map">"Карта"</string>
     <string name="quest_tourism_information_guidepost">"Указатель"</string>
+    <string name="quest_tourism_information_art">"Искусство"</string>
     <string name="quest_recycling_materials_answer_waste">"Для общих отходов"</string>
     <string name="quest_recycling_materials_answer_waste_description">"Это контейнер для любых отходов, таких как мешки с бытовыми или коммерческими отходами?"</string>
     <string name="user_profile">"Мой Профиль"</string>
@@ -1050,7 +1051,7 @@
     <string name="quest_bicycle_parking_access_title2">"Кто может парковать здесь свой велосипед? Парковка может быть платной или бесплатной."</string>
     <string name="quest_playground_access_title2">"Кто может использовать эту игровую площадку?"</string>
     <string name="quest_sidewalk_answer_none_title">"Отметить тротуары как отсутствующие"</string>
-    <string name="quest_side_select_interface_explanation">"Коснитесь одной стороны и выберите нужный ответ. 
+    <string name="quest_side_select_interface_explanation">"Коснитесь одной стороны и выберите нужный ответ.
 Сделайте то же самое для другой стороны, если она есть."</string>
     <string name="ar_measure">"Измерить"</string>
     <string name="ar_core_tracking_error_too_steep_angle">"Слишком крутой угол, немного отойдите"</string>
