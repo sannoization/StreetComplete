@@ -6,4 +6,5 @@ enum class TourismInformation(val osmValue: String) {
     TERMINAL("terminal"),
     MAP("map"),
     GUIDEPOST("guidepost"),
+    ART("art")
 }
